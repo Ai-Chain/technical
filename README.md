@@ -1,10 +1,10 @@
 # Technical
 
-[![Technical CI](https://github.com/freqtrade/technical/actions/workflows/ci.yml/badge.svg)](https://github.com/freqtrade/technical/actions/workflows/ci.yml)
+[![Technical CI](https://github.com/ai-chain/technical/actions/workflows/ci.yml/badge.svg)](https://github.com/ai-chain/technical/actions/workflows/ci.yml)
 [![PyPI](https://img.shields.io/pypi/v/technical)](https://pypi.org/project/technical/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-This is a collection of technical indicators collected or developed for Freqtrade as well as utilities such as timeframe resampling.
+This is a collection of technical indicators collected or developed for Ai-Chain as well as utilities such as timeframe resampling.
 
 ## What does it do for you
 
@@ -72,7 +72,7 @@ pip install technical
 To get the latest version, install directly from github:
 
 ```bash
-pip install git+https://github.com/freqtrade/technical
+pip install git+https://github.com/ai-chain/technical
 ```
 
 and than import the required packages
@@ -100,6 +100,6 @@ So in the above example:
 ### Contributions
 
 We will happily add your custom indicators to this repo!
-Just clone this repository and implement your favorite indicator to use with Freqtrade.
+Just clone this repository and implement your favorite indicator to use with Ai-Chain.
 
 Have fun!
