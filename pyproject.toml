@@ -6,8 +6,8 @@ build-backend = "setuptools.build_meta"
 name = "technical"
 dynamic = ["version"]
 authors = [
-  {name = "Freqtrade Team"},
-  {name = "Freqtrade Team", email = "freqtrade@protonmail.com"},
+  {name = "Ai-Chain"},
+  {name = "Ai-Chain Team", email = "infosulaimanbd@gmail.com"},
 ]
 description = "Technical Indicators for Financial Analysis"
 readme = "README.md"
@@ -38,8 +38,8 @@ tests = [
 
 
 [project.urls]
-Homepage = "https://github.com/freqtrade/technical"
-"Bug Tracker" = "https://github.com/freqtrade/technical/issues"
+Homepage = "https://github.com/Ai-Chain/technical"
+"Bug Tracker" = "https://github.com/Ai-Chain/technical/issues"
 
 [tool.setuptools]
 include-package-data = false
